@@ -8,12 +8,12 @@ a line 6
 a line 7
 a line 8
 a line 9
-stack part 1
+a line 10
 a line 11
 a line 12
 a line 13
 a line 14
-a line 15
+stack part 6
 a line 16
 a line 17
 a line 18
