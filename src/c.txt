@@ -10,12 +10,12 @@ c line 8
 c line 9
 c line 10
 c line 11
-stack part 3
+c line 12
 c line 13
 c line 14
 c line 15
 c line 16
-c line 17
+stack part 8
 c line 18
 c line 19
 c line 20
