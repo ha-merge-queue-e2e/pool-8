@@ -18,7 +18,7 @@ c line 16
 c line 17
 c line 18
 c line 19
-c line 20
+c
 c line 21
 c line 22
 c line 23
